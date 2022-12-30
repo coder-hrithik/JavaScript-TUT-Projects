@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(1, 1, 63); */
+    color: rgb(1, 1, 63);
+}
+
+#main {
+    background-color: aliceblue;
+    margin-top: 5px;
+    border: 2px solid rgb(0, 0, 72);
+    border-radius: 10px;
+    padding: 16px;
+
+    font-weight: 600;
+}
+
+#myname {
+    background-color: rgb(152, 202, 255);
+}
+
+
+
+#cv-templet{
+    display: none;
+}
+
+.myimg{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.background1{
+    background-color: rgb(152, 202, 255);
+}
+
+.background2{
+    background-color: aliceblue;
+}
